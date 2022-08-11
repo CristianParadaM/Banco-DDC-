@@ -31,4 +31,4 @@ contraseña: diegoPass
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/T1PsM7m1/Imagen1.png" alt="Imagen1"/></a><br/><br/>
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/1RWTcShq/Imagen2.png" alt="Imagen2"/></a><br/><br/>
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/GtS5cFJQ/Imagen3.png" alt="Imagen3"/></a><br/><br/>
-<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/MKvL9Lqr/Imagen4.png" alt="Imagen4"/></a><br/><br/>
+<a href='https://postimg.cc/VJw8jx64' target='_blank'><img src='https://i.postimg.cc/vZgZdMdR/Imagen4.png' border='0' alt='Imagen4'/></a>
